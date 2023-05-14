@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dua_xe", "Dua_xe.csproj", "{F182BB95-3CBD-4A19-A435-17537329081E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F182BB95-3CBD-4A19-A435-17537329081E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F182BB95-3CBD-4A19-A435-17537329081E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F182BB95-3CBD-4A19-A435-17537329081E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F182BB95-3CBD-4A19-A435-17537329081E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2320C3EE-15AE-46B5-A576-F3CAD0F13DE9}
+	EndGlobalSection
+EndGlobal
